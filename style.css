@@ -1,0 +1,50 @@
+body{
+	
+	background-color: rgba(5, 15, 20, 0.8);
+}
+	
+
+
+	
+
+
+.button1 {
+	border-radius: 12px;
+	
+	margin: 100px;
+	
+	background: rgba(100, 10, 10, 0.5);
+	color: rgba(100, 50, 0, 1);
+	font-family: impact;
+	width: 180px;
+	height: 180px;
+	
+	
+}
+
+.button2 {
+	border-radius: 12px;
+	
+	background-image: url("safari.png");
+	
+	margin: 100px;
+	
+	width: 180px;
+	height: 180px;
+	
+	
+}
+
+.button3 {
+	border-radius: 12px;
+	
+	margin: 100px;
+	
+	background: rgba(0, 0, 10, 0.5);
+	color: rgba(100, 50, 0, 1);
+	font-family: impact;
+	width: 180px;
+	height: 180px;
+	
+	
+}
